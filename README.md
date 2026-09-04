@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Karishma Qudrat
 
-<!--
-**karishmaqudrat/karishmaqudrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate **BSCS student** at Air University Islamabad, passionate about technology, programming, and cybersecurity.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently pursuing my Bachelor's degree in Computer Science
+* 💻 Interested in **Programming, Web Development, and Cybersecurity**
+* 🛡️ Currently exploring and learning cybersecurity concepts
+* 📚 Always looking to learn new technologies and improve my skills
+* 🚀 Interested in building practical projects and gaining real-world experience
+
+## 🛠️ Skills & Technologies
+
+* **Languages:** C++, Python
+* **Web:** HTML, CSS, Bootstrap
+* **Programming:** Object-Oriented Programming (OOP)
+* **Tools:** Git, GitHub, VS Code
+* **Other:** MS Word, MS Excel
+
+## 🤝 Looking to Collaborate
+
+I'm interested in collaborating on beginner-friendly projects, especially those related to **programming, web development, and cybersecurity**.
+
+## 💡 Ask Me About
+
+You can ask me about my skills, university projects, programming, or anything related to what I'm currently learning.
+
+## 📫 How to Reach Me
+
+* 📧 Email: *karishmaqudrat@gmail.com*
+* 💼 LinkedIn: [Karishma Qudrat](https://www.linkedin.com/in/karishma-qudrat-b4b371384)
+
+---
+
+⭐ Thanks for visiting my profile!
